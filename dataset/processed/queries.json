@@ -1,0 +1,42 @@
+[
+    {
+        "query_id": 1,
+        "query": "penghinaan dengan kata anjing dan babi",
+        "ground_truth": 5
+    },
+    {
+        "query_id": 2,
+        "query": "pencemaran nama baik",
+        "ground_truth": 1
+    },
+    {
+        "query_id": 3,
+        "query": "fitnah terhadap seseorang",
+        "ground_truth": 4
+    },
+    {
+        "query_id": 4,
+        "query": "penghinaan di depan umum",
+        "ground_truth": 19
+    },
+    {
+        "query_id": 5,
+        "query": "merendahkan kehormatan seseorang",
+        "ground_truth": 13
+    },
+    {
+        "query_id": 6,
+        "query": "penghinaan melalui ucapan",
+        "ground_truth": 16
+    },
+    {
+        "query_id": 7,
+        "query": "pencemaran nama baik di masyarakat",
+        "ground_truth": 25
+    },
+    {
+        "query_id": 8,
+        "query": "fitnah yang merugikan korban",
+        "ground_truth": 32
+    }
+]
